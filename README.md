@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # Python-quiz-app
 Working
 # Quiz Application - Python with Text and Excel Parsing
@@ -36,7 +41,6 @@ This project is a Python-based quiz application that loads questions from either
 - **Randomized Question Order**: Questions and options are shuffled to create a unique quiz experience each time.
 - **Answer Time Limit**: Set a time limit for each question to increase the challenge.
 
-## Requirements
 
 To run this project, you need:
 
