@@ -106,5 +106,5 @@ def start_quiz(file_path):
 # Chạy ứng dụng với file Excel đầu vào
 if __name__ == "__main__":
     # Đặt đường dẫn file Excel vào đây
-    file_path = r"F:\dole\Dole SGU\Projects\Random quiz\AWS_Questions.xlsx"
+    file_path = ""
     start_quiz(file_path)
