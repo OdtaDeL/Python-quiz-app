@@ -65,6 +65,6 @@ def save_to_excel(questions, output_path="output_questions.xlsx"):
 
 # Sử dụng hàm trên
 if __name__ == "__main__":
-    text_file_path = r"F:\dole\Dole SGU\Projects\Random quiz\Questions.txt"  # Đặt đường dẫn tới file text của bạn
+    text_file_path = ""  # Đặt đường dẫn tới file text của bạn
     questions = parse_text_file(text_file_path)
-    save_to_excel(questions, "AWS_Questions.xlsx")
+    save_to_excel(questions, "Questions.xlsx") #Đặt tên file Excel
