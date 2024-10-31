@@ -66,8 +66,6 @@ Options: Each option begins with a letter (A, B, etc.) followed by a dot and the
 Correct Answers: The last line for each question block contains the correct answers, separated by commas.
 
 The Excel file should contain the following columns:
-![image](https://github.com/user-attachments/assets/1ff306d6-6694-4685-8e64-ed381f6ab19f)
 Question: The text of the question.
 Options: Each option is prefixed by a letter and separated by ;.
 Answer: The correct answer(s), separated by ; for multiple answers.
-
