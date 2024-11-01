@@ -107,4 +107,6 @@ load_questions(file_path): Parses questions from an Excel file.
 display_question(), check_answer(), update_timer(): Functions for quiz logic, time tracking, and feedback.
 
 
-This `README.md` provides a complete overview, setup instructions, file format requirements, and detailed usage for your updated project.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
